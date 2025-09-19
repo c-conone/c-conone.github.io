@@ -72,7 +72,8 @@ CNC Machining            | Welding             | Quality Assurance
 * Managed direction and planning for plant operations with a focus on optimization of daily functions, exceeding customer expectations and 
   achieving KPIs.
 
-* Performed troubleshooting on various systems to include heat exchangers, piping and valve systems, generators, and electrical systems.
+* Performed maintenance troubleshooting on various systems to include heat exchangers, piping and valve systems, generators, and electrical 
+  systems.
 
 
 ### Production & Maintenance Planning Manager, _United States Marine Corps_
@@ -84,16 +85,16 @@ CNC Machining            | Welding             | Quality Assurance
 * Maintained daily work operations of 4 maintenance and production work centers, reviewed daily production schedules, inventory requirements, 
   manpower resources, and assigned workload distributions to personnel. 
 
-* Conducted 2,109 production control meetings briefing internal subordinates and higher-level production control managers for tracking 
+* Conducted over 2,000 production control meetings briefing internal subordinates and higher-level production control managers for tracking 
   completion of high priority assignments.  
 
-* Completed 9,591 on-schedule maintenance and production planning actions in support of 7 Aviation Logistics Squadrons following established 
-  Department of Defense procedures and schedules. 
+* Completed over 9,000 on-schedule maintenance and production planning actions in support of 7 Aviation Logistics Squadrons following 
+  established Department of Defense procedures and schedules. 
 
 * Implemented process improvement procedures resulting in 20% reduction in asset turnaround time by proactively identifying and leading 14 
   process improvement initiatives with employees. 
 
-*	Managed the receipt, inventory, and purchasing of $3,200,000 of expendable assets. 
+*	Managed the receipt, inventory, and purchasing of $3,200,000 of inexpendable assets. 
 
 
 *Served 5 years (2013-2018) as Quality Assurance Inspector  ensuring the standard, safety, and compliance of materials, products, and equipment.*
