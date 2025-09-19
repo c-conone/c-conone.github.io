@@ -6,8 +6,7 @@ layout: default
 [Email ](mailto:c.conone6@outlook.com)
 
 
-
-[LinkedIn: www.linkedin.com/in/cristinaconone]
+[LinkedIn](https://www.linkedin.com/in/cristina-conone-069498144)
 
 
 
