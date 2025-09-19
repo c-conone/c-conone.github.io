@@ -4,26 +4,30 @@ layout: default
 
 
 [Email ](mailto:c.conone6@outlook.com)
-[LinkedIn](www.linkedin.com/in/
-cristinaconone).
+
+[LinkedIn](www.linkedin.com/in/cristinaconone)
 
 
-# **Summary**
+
+## **Summary**
 
 Strategic and results-driven supply chain professional with 9+ years of experience in production planning, vendor coordination, and cross-functional leadership across military, aerospace, and retail sectors. Adept at translating complex analytics into actionable insights, optimizing operational workflows, and driving continuous improvement through Lean Six Sigma methodologies. Proven success in managing multimillion-dollar assets, enhancing supplier performance, and aligning technical processes with business objectives.
 
-# **Skills & Abilities**
+## **Skills & Abilities**
 
-|--------------------------|---------------------|----------------------|
-| Six Sigma Green Belt     | Production Planning | Inventory Management |
-| OSHA 30 Certified        | KPI Tracking        | ERP, SAP, and MRP    |
-| ISO9001 / ASO9001        | Data Analysis       | AutoCAD              | 
-| CNC Machining            | Welding             | Quality Assurance    |
-|--------------------------|---------------------|----------------------|
 
-# **Experience**
+Six Sigma Green Belt     | Production Planning | Inventory Management |
+ OSHA 30 Certified        | KPI Tracking        | ERP, SAP, and MRP    |
+ISO9001 / ASO9001        | Data Analysis       | AutoCAD              | 
+| CNC Machining            | Welding             | Quality Assurance    
 
-## Assistant Store Manager - Visual Merchandising, _Tecovas_                                   
+
+## **Experience**
+
+### Assistant Store Manager - Visual Merchandising, _Tecovas_                                                                                       
+(6/24-Present) 
+                       
+
 
 * Supervise daily store operations, ensuring seamless execution of sales strategies and exceptional customer service to exceed revenue targets.
 
@@ -36,7 +40,9 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 * Monitor and adjust merchandising strategies based on sales performance, maximizing profitability and inventory turnover.
 
 
-## Manufacturing Manager, _Northrop Grumman Corporation_
+### Manufacturing Manager, _Northrop Grumman Corporation_
+(11/22-5/23) 
+
 
 * Managed the daily production priorities of 21 electronic assembly technicians, coordinating the successful completion of 1,792 on-time 
   product builds in support of program operations.
@@ -50,7 +56,10 @@ Strategic and results-driven supply chain professional with 9+ years of experien
   units.
 
 
-## Cryogenic Plant Service Manager, _United Paradyne Corporation_
+### Cryogenic Plant Service Manager, _United Paradyne Corporation_
+(4/19-6/22) 
+
+
 
 * Maintained $2.6 million of cryogenic plant equipment and assets and assigned manpower to efficiently manage maintenance discrepancies in 
   accordance with Naval Aviation Maintenance Program standards and publications.
@@ -65,9 +74,10 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 * Performed troubleshooting on various systems to include heat exchangers, piping and valve systems, generators, and electrical systems.
 
 
-## Production & Maintenance Planning Manager, _United States Marine Corps_
+### Production & Maintenance Planning Manager, _United States Marine Corps_
+(1/13-1/18) 
 
-### Served 3 years (2015 - 2018) as Production and Maintenance Planning Manager responsible for the development and implementation of  SOPs for 40 employees handling the assembly, inventory, maintenance, and distribution of $4,100,000 of equipment and assets.  
+*Served 3 years (2015 - 2018) as Production and Maintenance Planning Manager responsible for the development and implementation of  SOPs for 40 employees handling the assembly, inventory, maintenance, and distribution of $4,100,000 of equipment and assets.*
 
 
 * Maintained daily work operations of 4 maintenance and production work centers, reviewed daily production schedules, inventory requirements, 
@@ -85,7 +95,7 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 *	Managed the receipt, inventory, and purchasing of $3,200,000 of expendable assets. 
 
 
-### Served 5 years (2013-2018) as Quality Assurance Inspector  ensuring the standard, safety, and compliance of materials, products, and equipment.
+*Served 5 years (2013-2018) as Quality Assurance Inspector  ensuring the standard, safety, and compliance of materials, products, and equipment.*
 
 
 * Conducted over 27,000 successful quality in-process and final inspections in support of 7 Aviation Logistics Squadrons in accordance with 
@@ -99,7 +109,7 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 
 
 
-### Served 2 years (2013-2015) as Lead Production and Maintenance Planner coordinating the receipt, documentation, and issuance of aviation life support system assets and equipment. 
+*Served 2 years (2013-2015) as Lead Production and Maintenance Planner coordinating the receipt, documentation, and issuance of aviation life support system assets and equipment.*
 
 
 * Supervised daily operations of 4 cross-functional teams, providing direction to employees to ensure successful completion of project deadlines. 
@@ -113,29 +123,29 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 
 
 
-# **Education**
+## **Education**
 
-## Master of Science, Supply Chain Analytics
-#### _California State University San Marcos, Aug, 2026_
+### Master of Science, Supply Chain Analytics
+_California State University San Marcos, Aug, 2026_
 
-## Bachelor of Business Administration, Global Supply Chain Management 
-#### _California State University San Marcos, Dec. 2024_
+### Bachelor of Business Administration, Supply Chain Management 
+ _California State University San Marcos, Dec. 2024_
 
 
-## Certificate of Proficiency, AUTOCAD
-#### _Palomar College,  Dec. 2024_
+### Certificate of Proficiency, AutoCAD
+_Palomar College,  Dec. 2024_
 
-## Certificate of Proficiency, TIG Welding
-#### _Palomar College, Aug. 2024_
+### Certificate of Proficiency, TIG Welding
+ _Palomar College, Aug. 2024_
 
-## Associates of Science, Accountancy 
-#### _Miramar College- 2022_
+### Associates of Science, Accountancy 
+ _Miramar College- 2022_
 
-## Associates of Science, Business Management 
-#### _Miramar College- 2020_
+### Associates of Science, Business Management 
+ _Miramar College- 2020_
 
-## Associates of Science, Automotive Technology 
-#### _Miramar College, 2018_
+### Associates of Science, Automotive Technology 
+_Miramar College, 2018_
 
 
 
