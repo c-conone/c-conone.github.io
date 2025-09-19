@@ -7,7 +7,7 @@ layout: default
 
 
 
-[LinkedIn](https://www.linkedin.com/in/cristina-conone-069498144)
+[LinkedIn: www.linkedin.com/in/cristinaconone]
 
 
 
