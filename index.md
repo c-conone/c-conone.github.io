@@ -7,7 +7,7 @@ layout: default
 
 
 
-[LinkedIn](www.linkedin.com/in/cristinaconone)
+[LinkedIn](www.linkedin.com/in/cristina-conone-069498144)
 
 
 
@@ -19,9 +19,9 @@ Strategic and results-driven supply chain professional with 9+ years of experien
 
 
 Six Sigma Green Belt     | Production Planning | Inventory Management |
- OSHA 30 Certified        | KPI Tracking        | ERP, SAP, and MRP    |
+OSHA 30 Certified        | KPI Tracking        | ERP, SAP, and MRP    |
 ISO9001 / ASO9001        | Data Analysis       | AutoCAD              | 
-| CNC Machining            | Welding             | Quality Assurance    
+CNC Machining            | Welding             | Quality Assurance    
 
 
 ## **Experience**
@@ -128,7 +128,7 @@ ISO9001 / ASO9001        | Data Analysis       | AutoCAD              |
 ## **Education**
 
 ### Master of Science, Supply Chain Analytics
-_California State University San Marcos, Aug, 2026_
+_California State University San Marcos, Aug. 2026_
 
 ### Bachelor of Business Administration, Supply Chain Management 
  _California State University San Marcos, Dec. 2024_
