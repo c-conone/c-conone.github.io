@@ -8,7 +8,7 @@ Designed as both a professional showcase and a learning archive, this collection
 In addition to showcasing completed work, this document also provides a step-by-step tutorial detailing how the e-portfolio was created. It includes instructions on repository setup, file organization, Markdown formatting, and version control practices using GitHub. The goal is to offer a transparent, replicable process for building a professional online portfolio.
 
 
-# Creating a Personal E-Portfolio on GitHub Pages
+# Creating a Professional E-Portfolio on GitHub Pages
 
 
 
@@ -24,19 +24,15 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     - Add a description for the repository. 
 
-![Adding a New Repository](assets/img/new_repo.png)
-
-
 3. Configure New Repository Settings:
 
     - Set visibility option to *Public*.
     
-    - Toggle the *Add a README file* button to on.
+    - Toggle the *Add a README file* button to **on**.
 
     - Click *Create repository*.
 
 
-![Repository Settings](assets/img/repo_settings.png)
 
  
 ### Clone the Repository to Desktop to Make Changes Locally
@@ -45,33 +41,28 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 2. Click the green **Code** button, then select *Open with GitHub Desktop*.
 
-![Cloning Repository](assets/img/clone_repo.png)
-
 3. GitHub Desktop will launch and prompt you to choose a local path where the repository will be cloned.
 
 4. Click *Clone* to download the repository to your local machine.
 
+
 *Note: This process can be duplicated for creating working copies / versions for tracking changes, experimenting safely, and reverting to earlier versions without risking corruption of original files.*
 
-
+ 
 
 
 ### Adding the Minimal Theme Template
 
-1.	Go to [GitHub Pages](https://github.com/pages-themes/minimal) to download the Minimal Theme repository. You can also preview the default Minimal theme [Here.](https://pages-themes.github.io/minimal/)
+1.	Go to [GitHub Pages](https://github.com/pages-themes/minimal) to download the Minimal Theme repository. You can also preview the   
+    default Minimal theme [Here.](https://pages-themes.github.io/minimal/)
 
 2.	Click on the **<> Code** button located in the upper right corner and select *Download zip*.
-
-![Downloading the Minimal Theme](assets/img/download_theme.png)
 
 3.	Once downloaded, unzip the files and  place them into the locally cloned repository.
 
 4.	Go to GitHub desktop and push a commit to reflect changes to GitHub site. 
 
 5.	Confirm changes have been incorporated on the static website. 
-
-
-![GitHub Pages "Minimal" Theme](assets/img/minimal_theme.png)
 
 
 
@@ -86,26 +77,33 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 4. Set up theme “Usage”  
 
-    * Locate `_config.yml` and add `pages-themes/minimal@v0.2.0` to the `remote_theme` section.
-
-![a](assets/img/configyml.png) ![b](assets/img/remote_theme.png)
-
+    - Locate `_config.yml` and add `pages-themes/minimal@v0.2.0` to the `remote_theme` section.
 
 5. Set up the theme “Configuration”
 
-    * Change the title to your preferred professional name (i.e. Cristina M. Conone) and the description to *Professional E-Portfolio*.
+    - Change the title to your preferred professional name (i.e. Cristina M. Conone) and the description to *Professional E-Portfolio*.
 
-![c](assets/img/config.png) ![d](assets/img/config2.png)
+
+
+    ![](assets/img/config_update.png)
+
+
 
 
 6. Add your professional headshot:
 
-    * Add your photo to the `img` subfolder of the `assets` folder of the repository and save the image as "logo.png" to maintain the  default template naming convention. 
+    - Add your photo to the `img` subfolder of the `assets` folder of the repository and save the image as "logo.png" to maintain the  default template naming convention. 
     
     *Note: logo image can be changed via the "logo" subsection within `_congig.yml` ; if changing image name outside of the template default, ensure image name and path are correctly anntated.*
 
 
-    ![a](assets/img/default_logo.png) ![b](assets/img/updated_logo.png)  
+
+
+
+    ![](assets/img/logo_update.png) 
+
+
+
 
 
 7. Add professional links:
@@ -116,7 +114,11 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     *Note: this format can be followed for adding any other links desired.*
 
-    ![a](assets/img/default_link.png) ![a](assets/img/custom_links.png) 
+
+
+![](assets/img/updatedlinks.png) 
+
+
 
 
 8. Add sections in `index.md` following standard resume format:
@@ -124,18 +126,19 @@ In addition to showcasing completed work, this document also provides a step-by-
     * Edit default headers and subsections to add professional summary, skills, work experience, and education. The template default provides `markdown` syntax that can be utilized. 
 
 
-    ![a](assets/img/mdsyntax.png)   ![a](assetsimg/cc_indexmd.png) 
+![](assets/img/updated_indexmd.png)   
 
 
-### Save Changes and Push a Commit to GitHub
+### Save Changes and Commit
 
 1. Save all changes made in VScode.
 
-2. Go to GitHub desktop and push a final commit.
+2. Go to GitHub desktop, make a final commit and push to GitHub.
 
 3. Navigate to github.io website to verify all changes have been properly updated.
 
 
-#### Final Result 
 
-  ![a](assets/img/eportfolio.png) 
+### Final Result 
+
+  ![](assets/img/eportfolio.png) 
