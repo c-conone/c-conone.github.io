@@ -71,7 +71,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 1. Open [Visual Studio Code](https://code.visualstudio.com/) for local editing.
 
-2. Select *File* > *Open Folder...* and slect the folder where the repository is located. 
+2. Select *File* > *Open Folder* and select the folder where the repository is located. 
 
 3. From the Explorer pane, open the `READ.md` file to view the "Usage" and "Customizing" for the mininmal theme.
 
@@ -108,9 +108,9 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 7. Add professional links:
 
-     * Add a link that when selected will opens the user's email app with a new message addressed to whatever email is specified by adding `[Email](mailto:<your email>) ` to `index.md` below the *layout* section. THis can also be accomplished by editing the default *Link to another page*. For further email customization click [Here.](https://blog.markdowntools.com/posts/markdown-email-links-using-mailto)
+     - Add a link that when selected will opens the user's email app with a new message addressed to whatever email is specified by adding `[Email](mailto:<your email>) ` to `index.md` below the *layout* section. THis can also be accomplished by editing the default *Link to another page*. For further email customization click [Here.](https://blog.markdowntools.com/posts/markdown-email-links-using-mailto)
 
-    * Add a clickable link to navigate to your LinkedIn profile by adding `[LinkedIn](https://www.linkedin.com/in/your-user-name)` in the same section of `index.md`. 
+    - Add a clickable link to navigate to your LinkedIn profile by adding `[LinkedIn](https://www.linkedin.com/in/your-user-name)` in the same section of `index.md`. 
 
     *Note: this format can be followed for adding any other links desired.*
 
@@ -123,7 +123,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 8. Add sections in `index.md` following standard resume format:
     
-    * Edit default headers and subsections to add professional summary, skills, work experience, and education. The template default provides `markdown` syntax that can be utilized. 
+    - Edit default headers and subsections to add professional summary, skills, work experience, and education. The template default provides `markdown` syntax that can be utilized. 
 
 
 ![](assets/img/updated_indexmd.png)   
