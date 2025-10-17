@@ -46,7 +46,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 4. Click *Clone* to download the repository to your local machine.
 
 
-*Note: This process can be duplicated for creating working copies / versions for tracking changes, experimenting safely, and reverting to earlier versions without risking corruption of original files.*
+   *Note: This process can be duplicated for creating working copies / versions for tracking changes, experimenting safely, and reverting to earlier versions without risking corruption of original files.*
 
  
 
@@ -94,7 +94,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     - Add your photo to the `img` subfolder of the `assets` folder of the repository and save the image as "logo.png" to maintain the  default template naming convention. 
     
-    *Note: logo image can be changed via the "logo" subsection within `_congig.yml` ; if changing image name outside of the template default, ensure image name and path are correctly anntated.*
+      *Note: logo image can be changed via the "logo" subsection within `_congig.yml` ; if changing image name outside of the template default, ensure image name and path are correctly anntated.*
 
 
 
@@ -112,7 +112,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     - Add a clickable link to navigate to your LinkedIn profile by adding `[LinkedIn](https://www.linkedin.com/in/your-user-name)` in the same section of `index.md`. 
 
-    *Note: this format can be followed for adding any other links desired.*
+      *Note: this format can be followed for adding any other links desired.*
 
 
 
@@ -133,7 +133,11 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 1. Save all changes made in VScode.
 
-2. Go to GitHub desktop, make a final commit and push to GitHub.
+2. Go to GitHub desktop and view all pending changes.
+
+3. Add a summary/description for the changes made.
+
+4. Commit changes to *main* and push to *origin* on GitHub.
 
 3. Navigate to github.io website to verify all changes have been properly updated.
 
