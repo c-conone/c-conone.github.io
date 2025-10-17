@@ -24,7 +24,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     - Add a description for the repository. 
 
-![Adding a New Repository](img/new_repo.png)
+![Adding a New Repository](assets/img/new_repo.png)
 
 
 3. Configure New Repository Settings:
@@ -36,7 +36,7 @@ In addition to showcasing completed work, this document also provides a step-by-
     - Click *Create repository*.
 
 
-![Repository Settings](img/repo_settings.png)
+![Repository Settings](assets/img/repo_settings.png)
 
  
 ### Clone the Repository to Desktop to Make Changes Locally
@@ -45,7 +45,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 2. Click the green **Code** button, then select *Open with GitHub Desktop*.
 
-![Cloning Repository](img/clone_repo.png)
+![Cloning Repository](assets/img/clone_repo.png)
 
 3. GitHub Desktop will launch and prompt you to choose a local path where the repository will be cloned.
 
@@ -62,7 +62,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 2.	Click on the **<> Code** button located in the upper right corner and select *Download zip*.
 
-![Downloading the Minimal Theme](img/download_theme.png)
+![Downloading the Minimal Theme](assets/img/download_theme.png)
 
 3.	Once downloaded, unzip the files and  place them into the locally cloned repository.
 
@@ -71,7 +71,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 5.	Confirm changes have been incorporated on the static website. 
 
 
-![GitHub Pages "Minimal" Theme](img/minimal_theme.png)
+![GitHub Pages "Minimal" Theme](assets/img/minimal_theme.png)
 
 
 
@@ -88,14 +88,14 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     * Locate `_config.yml` and add `pages-themes/minimal@v0.2.0` to the `remote_theme` section.
 
-![a](img/configyml.png) ![b](img/remote_theme.png)
+![a](assets/img/configyml.png) ![b](assets/img/remote_theme.png)
 
 
 5. Set up the theme “Configuration”
 
     * Change the title to your preferred professional name (i.e. Cristina M. Conone) and the description to *Professional E-Portfolio*.
 
-![c](img/config.png) ![d](img/config2.png)
+![c](assets/img/config.png) ![d](assets/img/config2.png)
 
 
 6. Add your professional headshot:
@@ -105,7 +105,7 @@ In addition to showcasing completed work, this document also provides a step-by-
     *Note: logo image can be changed via the "logo" subsection within `_congig.yml` ; if changing image name outside of the template default, ensure image name and path are correctly anntated.*
 
 
-    ![a](img/default_logo.png) ![b](img/updated_logo.png)  
+    ![a](assets/img/default_logo.png) ![b](assets/img/updated_logo.png)  
 
 
 7. Add professional links:
@@ -116,7 +116,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
     *Note: this format can be followed for adding any other links desired.*
 
-    ![a](img/default_link.png) ![a](img/custom_links.png) 
+    ![a](assets/img/default_link.png) ![a](assets/img/custom_links.png) 
 
 
 8. Add sections in `index.md` following standard resume format:
@@ -124,12 +124,18 @@ In addition to showcasing completed work, this document also provides a step-by-
     * Edit default headers and subsections to add professional summary, skills, work experience, and education. The template default provides `markdown` syntax that can be utilized. 
 
 
-    ![a](img/mdsyntax.png)   ![a](img/cc_indexmd.png) 
+    ![a](assets/img/mdsyntax.png)   ![a](assetsimg/cc_indexmd.png) 
 
 
-### Save Changes in VSCode, go to GitHub desktop push a final commit and go to website to verify all changes have been properly updated 
+### Save Changes and Push a Commit to GitHub
+
+1. Save all changes made in VScode.
+
+2. Go to GitHub desktop and push a final commit.
+
+3. Navigate to github.io website to verify all changes have been properly updated.
 
 
-# Final Screenshot of e-portfolio from Milestone I 
+#### Final Result 
 
-  ![a](img/eportfolio.png) 
+  ![a](assets/img/eportfolio.png) 
