@@ -85,7 +85,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 
 
-    ![](assets/img/config_update.png)
+    ![](../assets/img/config_update.png)
 
 
 
@@ -100,7 +100,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 
 
-    ![](assets/img/logo_update.png) 
+    ![](../assets/img/logo_update.png) 
 
 
 
@@ -116,7 +116,7 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 
 
-![](assets/img/updatedlinks.png) 
+![](../assets/img/updatedlinks.png) 
 
 
 
@@ -126,7 +126,7 @@ In addition to showcasing completed work, this document also provides a step-by-
     - Edit default headers and subsections to add professional summary, skills, work experience, and education. The template default provides `markdown` syntax that can be utilized. 
 
 
-![](assets/img/updated_indexmd.png)   
+![](../assets/img/updated_indexmd.png)   
 
 
 ### Save Changes and Commit
@@ -145,4 +145,4 @@ In addition to showcasing completed work, this document also provides a step-by-
 
 ### Final Result 
 
-  ![](assets/img/eportfolio.png)
+  ![](../assets/img/eportfolio.png)
