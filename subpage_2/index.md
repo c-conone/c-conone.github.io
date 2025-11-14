@@ -17,8 +17,6 @@ Explore the datasets and interactive notebook below.
 - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c-conone/c-conone.github.io/HEAD?filepath=subpage_2/notebook/assignments.ipynb)
 
 
-## 📘 Notebook Preview
 
-
-<iframe src="https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
+<iframe src="https://github.com/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
         width="100%" height="800px" style="border:none;"></iframe>
