@@ -12,9 +12,6 @@ Explore the datasets and interactive notebook below.
 - [📥 Transaction Data CSV](../data/transaction_data.csv)
 
 
-- [📄 Meta Data CSV]
-- [📄 Transaction Data CSV](../Milestone_III/data/transaction_data.csv)
-
 
 ### 📘 Interactive Notebook
 - [View on GitHub](https://github.com/c-conone/c-conone.github.io/blob/main/notebook/assignments.ipynb)
