@@ -19,4 +19,4 @@ Explore the datasets and interactive notebook below.
 
 
 <iframe src="https://github.com/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
-        width="100%" height="800px" style="border:none;"></iframe>
+        style="width:100vw; height:800px; border:none;"></iframe>
