@@ -9,8 +9,8 @@ layout: default
 [LinkedIn](https://www.linkedin.com/in/cristina-conone-069498144)
 
 
-[Projects – Subpage 1](https://c-conone.github.io/subpage_1/)  
-[Projects – Subpage 2](https://c-conone.github.io/subpage_2/)
+[Projects – Page 1](https://c-conone.github.io/subpage_1/)  
+[Projects – Page 2](https://c-conone.github.io/subpage_2/)
 
 
 ## **Summary**
