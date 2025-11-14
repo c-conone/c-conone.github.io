@@ -2,7 +2,7 @@
 
 This repository contains a series of assignments designed to apply core concepts from the OM 620 *Tools and Technologies for Business Analytics* course at California State University San Marcos.
 
-**Learning Objectives**
+### Learning Objectives
 
 - Application of data transformation techniques 
 
@@ -13,7 +13,7 @@ This repository contains a series of assignments designed to apply core concepts
 - Development of reproducible workflows for business analytics use cases
 
 
-**Technologies and Tools Utilized**
+### Technologies and Tools Utilized
 
 - Python (pandas, Numpy, Scipy, plotnine) for data wrangling and statistical modeling
 
@@ -22,9 +22,9 @@ This repository contains a series of assignments designed to apply core concepts
 - Jupyter Notebooks for interactive analysis and code presentation
 
 
-**Assignment Overview**
+### Assignment Overview
 
-Assignment 1: *Data Preparation for Safety Stock Analysis*
+**Assignment 1:** *Data Preparation for Safety Stock Analysis*
 
 This assignment focuses on preapring transactional data for inventory analysis. Key tasks include:
 
@@ -50,7 +50,7 @@ Rows where SKU contained missing information were filtered out with the final fi
 
 
 
-Assignment 2: *Safety Stock Calculation and Distribution Analysis*
+**Assignment 2:** *Safety Stock Calculation and Distribution Analysis*
 
 This assignment builds on the cleaned dataset to calculate safety stock levels for Make to Stock (MTS) Stock Keeping Units (SKUs) using statistical aggregation and service level coefficents. Key tasks include: 
 
