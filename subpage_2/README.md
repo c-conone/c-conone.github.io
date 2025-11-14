@@ -69,7 +69,7 @@ This assignment builds on the cleaned dataset to calculate safety stock levels f
 
 Using the aggregated and transformed data,  safety stock values for each SKU were calculated for the service level coefficients of 75%, 90%, and 95%. Safety stock distribution was then determined strictly focusing on a 95% service level as follows:
 
-SKU with the largest safety stock at the 95th percentile: BE575720
-SKU with the smallest safety stock at the 95th percentile: 79536466
-Average safety stock at the 95th percentile: 109
+- SKU with the largest safety stock at the 95th percentile: BE575720
+- SKU with the smallest safety stock at the 95th percentile: 79536466
+- Average safety stock at the 95th percentile: 109
 
