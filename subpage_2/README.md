@@ -1,3 +1,36 @@
+
+# SubPage Creation and Configuration
+
+1. Create new subpage folder (subpage_2) and add to GitHb Pages repository to organize project.
+
+
+2. Add `index.md` file to subpage_2 folder to host page content.
+
+3. Add markdown links to data files so users can download or preview them.
+
+
+4. Embed notebook using `nbviewer` to display notebook in a scrollable, non-interactive format, using an `iframe`.
+
+
+## References
+
+Here are MLA-style citations you can use to reference the methods you followed for embedding notebooks and data into your GitHub Pages subpage:
+
+
+- Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
+
+- Pewsey, Matt. “How to Use Jupyter Notebooks for GitHub Pages Posts.” Matt Pewsey, 5 Dec. 2021, mpewsey.github.io/2021/12/05/converting-jupyter-notebooks-to-github-pages-posts.html. Accessed 14 Nov. 2025.
+
+- GitHub Docs. “Working with Jupyter Notebook Files on GitHub.” GitHub, docs.github.com/articles/working-with-jupyter-notebook-files-on-github. Accessed 14 Nov. 2025.
+
+- Stack Overflow. “How to Display a .ipynb File on GitHub?” Stack Overflow, 13 July 2020, stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github. Accessed 14 Nov. 2025.
+
+- Xavier, R. “Embed Gist Snippet in HTML.” GitHub Gist, 13 Nov. 2013, https://gist.github.com/rxaviers/7360908. Accessed 14 Nov. 2025.
+
+
+
+
+
 # Tools and Technologies for Business Analytics Assignments
 
 This repository contains a series of assignments designed to apply core concepts from the OM 620 *Tools and Technologies for Business Analytics* course at California State University San Marcos.
