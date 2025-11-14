@@ -24,6 +24,8 @@ This repository contains a series of assignments designed to apply core concepts
 
 ### Assignment Overview
 
+
+
 **Assignment 1:** *Data Preparation for Safety Stock Analysis*
 
 This assignment focuses on preapring transactional data for inventory analysis. Key tasks include:
@@ -46,6 +48,8 @@ Rows where SKU contained missing information were filtered out with the final fi
 - 66 divisions
 - Order quantities ranging from 0 to 191 units
 - Total sales values calculated utilizig the unit price x order quantity and the associated top and bottom 10 transactions with totals ranging from $0 to ~ $193,200. 
+
+
 
 
 
