@@ -1,5 +1,5 @@
 
-# SubPage Creation and Configuration
+# Subpage Creation and Configuration
 
 1. Create new subpage folder (subpage_2) and add to GitHb Pages repository to organize project.
 
