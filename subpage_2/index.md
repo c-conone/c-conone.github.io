@@ -20,9 +20,5 @@ Explore the datasets and interactive notebook below.
 
 ## Notebook Preview
 
-<iframe src="https://nbviewer.org/url/raw.githubusercontent.com/c-conone/c-conone.github.io/main/notebook/assignments.ipynb"
-        width="100%" height="800px" style="border:none;"></iframe>
-
-
-
-
+<iframe src="https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/notebook/assignments.ipynb"
+        width="100%" height="800px" style="border:none;" loading="lazy"></iframe>
