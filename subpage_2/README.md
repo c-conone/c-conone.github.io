@@ -14,9 +14,6 @@
 
 ## References
 
-Here are MLA-style citations you can use to reference the methods you followed for embedding notebooks and data into your GitHub Pages subpage:
-
-
 - Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
 
 - Pewsey, Matt. “How to Use Jupyter Notebooks for GitHub Pages Posts.” Matt Pewsey, 5 Dec. 2021, mpewsey.github.io/2021/12/05/converting-jupyter-notebooks-to-github-pages-posts.html. Accessed 14 Nov. 2025.
