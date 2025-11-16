@@ -5,7 +5,7 @@ title: Assignments
 
 ## 📊 Project Overview
 
-Explore the datasets and interactive notebook below.
+Explore the datasets and interactive notebook below. 
 
 ### 📁 Data Files
 - [📥 Meta Data CSV](./data/meta_data.csv)
