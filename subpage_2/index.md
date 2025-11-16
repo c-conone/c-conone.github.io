@@ -20,7 +20,6 @@ Explore the datasets and interactive notebook below.
 ## 📘 Notebook Preview
 
 
-<iframe src="https://github.com/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
+<iframe src="https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
         width="100%" height="800px" style="border:none;"></iframe>
-
 
