@@ -8,8 +8,8 @@ title: Assignments
 Explore the datasets and interactive notebook below. [OM 620 Assignments Repository](https://github.com/c-conone/om620_assignments)
 
 ### 📁 Data Files
-- [📥 Meta Data CSV](https://github.com/c-conone/om620_assignments/blob/main/data/meta_data.csv)
-- [📥 Transaction Data CSV](https://github.com/c-conone/om620_assignments/blob/main/data/transaction_data.csv)
+- [📥 Meta Data CSV](https://raw.githubusercontent.com/c-conone/om620_assignments/main/data/meta_data.csv)
+- [📥 Transaction Data CSV](https://raw.githubusercontent.com/c-conone/om620_assignments/main/data/transaction_data.csv)
 
 
 ### 📘 Interactive Notebook
@@ -24,5 +24,4 @@ Explore the datasets and interactive notebook below. [OM 620 Assignments Reposit
         width="100%" height="800px" style="border:none;">
     <p>Your browser does not support iframes. <a href="https://nbviewer.org/github/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb">View notebook here</a>.</p>
 </iframe>
-
 
