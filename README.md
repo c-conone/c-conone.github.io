@@ -2,7 +2,7 @@
 
  *Business Analytics & Visual Insights Projects*  
 
- This repository hosts a collection of student projects and assignments focused on data-driven decision making. Showcases Python, SQL, and Power BI workflows with clear visuals, practical insights, and documentation designed for learners, professionals, and anyone interested in analytics.
+ This repository hosts a collection of student projects and assignments focused on data-driven decision making. It showcases Python, SQL, and Power BI workflows with clear visuals, practical insights, and documentation designed for learners, professionals, and anyone interested in analytics.
 
 
 
