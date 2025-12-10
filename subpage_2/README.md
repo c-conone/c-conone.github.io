@@ -12,18 +12,6 @@
 4. Embed notebook using `nbviewer` to display notebook in a scrollable, non-interactive format, using an `iframe`.
 
 
-## References
-
-- Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
-
-- Pewsey, Matt. “How to Use Jupyter Notebooks for GitHub Pages Posts.” Matt Pewsey, 5 Dec. 2021, mpewsey.github.io/2021/12/05/converting-jupyter-notebooks-to-github-pages-posts.html. Accessed 14 Nov. 2025.
-
-- GitHub Docs. “Working with Jupyter Notebook Files on GitHub.” GitHub, docs.github.com/articles/working-with-jupyter-notebook-files-on-github. Accessed 14 Nov. 2025.
-
-- Stack Overflow. “How to Display a .ipynb File on GitHub?” Stack Overflow, 13 July 2020, stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github. Accessed 14 Nov. 2025.
-
-- Xavier, R. “Embed Gist Snippet in HTML.” GitHub Gist, 13 Nov. 2013, https://gist.github.com/rxaviers/7360908. Accessed 14 Nov. 2025.
-
 
 
 
@@ -103,3 +91,20 @@ Using the aggregated and transformed data,  safety stock values for each SKU wer
 - SKU with the smallest safety stock at the 95th percentile: 79536466
 - Average safety stock at the 95th percentile: 109
 
+
+
+
+
+
+
+### References
+
+- Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
+
+- Pewsey, Matt. “How to Use Jupyter Notebooks for GitHub Pages Posts.” Matt Pewsey, 5 Dec. 2021, mpewsey.github.io/2021/12/05/converting-jupyter-notebooks-to-github-pages-posts.html. Accessed 14 Nov. 2025.
+
+- GitHub Docs. “Working with Jupyter Notebook Files on GitHub.” GitHub, docs.github.com/articles/working-with-jupyter-notebook-files-on-github. Accessed 14 Nov. 2025.
+
+- Stack Overflow. “How to Display a .ipynb File on GitHub?” Stack Overflow, 13 July 2020, stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github. Accessed 14 Nov. 2025.
+
+- Xavier, R. “Embed Gist Snippet in HTML.” GitHub Gist, 13 Nov. 2013, https://gist.github.com/rxaviers/7360908. Accessed 14 Nov. 2025.
