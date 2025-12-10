@@ -9,8 +9,8 @@ Explore the datasets and interactive notebook below. [OM 620 Assignments Reposit
 
 ### 📁 Data Files
 
-- [📦 Download All Data (ZIP)](https://github.com/c-conone/om620_assignments/raw/main/data/data_bundle.zip)
-
+- [📥 Meta Data CSV](./data/meta_data.csv)
+- [📥 Transaction Data CSV](./data/transaction_data.csv)
 
 ### 📘 Interactive Notebook
 - [View on GitHub](https://github.com/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb)
