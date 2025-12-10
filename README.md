@@ -1,16 +1,27 @@
 ## Repository Description  
 
- *Business Analytics & Visual Insights Projects*  
+Business Analytics & Visual Insights Projects E-Portfolio
 
- This repository hosts a collection of student projects and assignments focused on data-driven decision making. It showcases Python, SQL, and Power BI workflows with clear visuals, practical insights, and documentation designed for learners, professionals, and anyone interested in analytics.
+This repository hosts a collection of student projects and assignments focused on data-driven decision making. It showcases Python, SQL, and Power BI workflows with clear visuals, practical insights, and documentation designed for learners, professionals, and anyone interested in analytics.
+
+In addition to collaborative coursework, this repository features a personal showcase of analytics capabilities, including custom-built dashboards, exploratory data analyses, and workflow prototypes. These projects reflect individual strengths in statistical modeling, data storytelling, and technical documentation, offering a curated view of applied business analytics in action.
+
+**Learning Objectives**
+
+- Application of data transformation techniques 
+
+- Use of statistical models to support inventory decisions
+
+- Documentation of analytical decisions
+
+- Development of reproducible workflows for business analytics use cases
 
 
+**Technologies and Tools Utilized**
 
-## References
+- Python (pandas, Numpy, Scipy, plotnine) for data wrangling and statistical modeling
 
-* Infinite Codes. “How to Push Code to GitHub from Visual Studio Code & Create a GitHub Repository.” *YouTube*, YouTube, 2024, www.youtube.com/watch?v=0LrNRBI_mYU. 
+- Markdown for documentation 
 
-* Rathbone, Matthew.“*How to Create Markdown Email Links Using Mailto*.” *MarkdownTools Blog*, 16 July 2024, [https://blog.markdowntools.com/posts/markdown-email-links-using-mailto](https://blog.markdowntools.com/posts/markdown-email-links-using-mailto).
-
-* Singh, Awanish. “Troubleshoot Common GitHub Actions Errors Solutions Guide.” *AST Consulting*, 11 July 2022, astconsulting.in/github-actions/troubleshoot-github-actions-errors.
+- Jupyter Notebooks for interactive analysis and code presentation
 
