@@ -97,7 +97,7 @@ Using the aggregated and transformed data,  safety stock values for each SKU wer
 
 
 
-### References
+# References
 
 - Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
 
