@@ -5,21 +5,22 @@ title: Assignments
 
 ## 📊 Project Overview
 
-Explore the datasets and interactive notebook below. 
+Explore the datasets and interactive notebook below.[OM620 Assignments Repo](https://github.com/c-conone/om620_assignments).
 
 ### 📁 Data Files
-- [📥 Meta Data CSV](./data/meta_data.csv)
-- [📥 Transaction Data CSV](./data/transaction_data.csv)
+- [📥 Meta Data CSV](https://github.com/c-conone/om620_assignments/blob/main/data/meta_data.csv)
+- [📥 Transaction Data CSV](https://github.com/c-conone/om620_assignments/blob/main/data/transaction_data.csv)
+
 
 ### 📘 Interactive Notebook
-- [View on GitHub](https://github.com/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb)
-- [Render via nbviewer](https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb)
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c-conone/c-conone.github.io/HEAD?filepath=subpage_2/notebook/assignments.ipynb)
+- [View on GitHub](https://github.com/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb)
+- [Render via nbviewer](https://nbviewer.org/github/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb)
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c-conone/om620_assignments/HEAD?filepath=notebook/assignments.ipynb)
 
 
 ## 📘 Notebook Preview
 
-<iframe src="https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb"
+<iframe src="https://nbviewer.org/github/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb"
         width="100%" height="800px" style="border:none;">
-    <p>Your browser does not support iframes. <a href="https://nbviewer.org/github/c-conone/c-conone.github.io/blob/main/subpage_2/notebook/assignments.ipynb">View notebook here</a>.</p>
+    <p>Your browser does not support iframes. <a href="https://nbviewer.org/github/c-conone/om620_assignments/blob/main/notebook/assignments.ipynb">View notebook here</a>.</p>
 </iframe>
