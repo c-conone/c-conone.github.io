@@ -5,7 +5,7 @@ title: Assignments
 
 ## 📊 Project Overview
 
-Explore the datasets and interactive notebook below.[OM620 Assignments Repo](https://github.com/c-conone/om620_assignments).
+Explore the datasets and interactive notebook below. [OM 620 Assignments Repository](https://github.com/c-conone/om620_assignments)
 
 ### 📁 Data Files
 - [📥 Meta Data CSV](https://github.com/c-conone/om620_assignments/blob/main/data/meta_data.csv)
