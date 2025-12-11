@@ -38,6 +38,7 @@ This repository contains assignments from the OM 620 *Tools and Technologies for
 - **Jupyter Notebooks**: interactive analysis and code presentation
 
 
+---
 
 
 ## Assignment 1: Data Preparation for Safety Stock Analysis
