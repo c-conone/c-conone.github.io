@@ -13,14 +13,12 @@
 
 
 
-
-
-
 # Tools and Technologies for Business Analytics Assignments
 
-This repository contains a series of assignments designed to apply core concepts from the OM 620 *Tools and Technologies for Business Analytics* course at California State University San Marcos.
+This repository contains assignments from the OM 620 *Tools and Technologies for Business Analytics* course at California State University San Marcos. The work emphasizes practical applications of data transformation, statistical modeling, and reproducible workflow design. Assignments progress from cleaning transactional datasets to calculating safety stock levels using service level coefficients. The collection highlights reproducible, well‑documented approaches for turning raw data into actionable insights in supply chain and inventory management.  
 
-### Learning Objectives
+
+## Learning Objectives
 
 - Application of data transformation techniques 
 
@@ -31,22 +29,22 @@ This repository contains a series of assignments designed to apply core concepts
 - Development of reproducible workflows for business analytics use cases
 
 
-### Technologies and Tools Utilized
+## Technologies and Tools Utilized
 
-- Python (pandas, Numpy, Scipy, plotnine) for data wrangling and statistical modeling
+- **Python**: pandas, Numpy, Scipy, plotnine
 
-- Markdown for documentation 
+- **Markdown**: documentation 
 
-- Jupyter Notebooks for interactive analysis and code presentation
-
-
-### Assignment Overview
+- **Jupyter Notebooks**: interactive analysis and code presentation
 
 
 
-**Assignment 1:** *Data Preparation for Safety Stock Analysis*
 
-This assignment focuses on preapring transactional data for inventory analysis. Key tasks include:
+## Assignment 1: Data Preparation for Safety Stock Analysis
+
+This assignment focuses on preapring transactional data for inventory analysis. 
+
+### Key Tasks:
 
 - Standardizing inconsistent data column naming conventions
 
@@ -55,7 +53,8 @@ This assignment focuses on preapring transactional data for inventory analysis. 
 - Filtering dataet for Make to Stock (MTS) stock keeping units (SKUs) and extracting key operational insights for unique SKUs, manufacturing sites, and division counts as well as the top and bottom transactions by order quantity with the calculated sales value. 
 
 
-**Findings:** 
+### Notable Findings:
+
 
 Outliers were determined for both unit price and unit quantities which were handled using a combination of filtering to remove negative values for order quantities where multiple observations were found  and applying the the absolute function to unit price as few observations were found. 
 
@@ -68,13 +67,15 @@ Rows where SKU contained missing information were filtered out with the final fi
 - Total sales values calculated utilizig the unit price x order quantity and the associated top and bottom 10 transactions with totals ranging from $0 to ~ $193,200. 
 
 
+---
 
 
+## Assignment 2: Safety Stock Calculation and Distribution Analysis
+
+This assignment builds on the cleaned dataset to calculate safety stock levels for Make to Stock (MTS) Stock Keeping Units (SKUs) using statistical aggregation and service level coefficents. 
 
 
-**Assignment 2:** *Safety Stock Calculation and Distribution Analysis*
-
-This assignment builds on the cleaned dataset to calculate safety stock levels for Make to Stock (MTS) Stock Keeping Units (SKUs) using statistical aggregation and service level coefficents. Key tasks include: 
+### Key Tasks:
 
 - Aggregating lead time and associated SKU-level statistics: min, max, mean, medianm variance and standard deviation.
 
@@ -83,7 +84,7 @@ This assignment builds on the cleaned dataset to calculate safety stock levels f
 - Analyzing safety stock distributions to identify SKUs with the highest and lowest safety stock requirements and average safety stock values across all SKUs.
 
 
-**Findings:** 
+### Notable Findings: 
 
 Using the aggregated and transformed data,  safety stock values for each SKU were calculated for the service level coefficients of 75%, 90%, and 95%. Safety stock distribution was then determined strictly focusing on a 95% service level as follows:
 
@@ -93,11 +94,7 @@ Using the aggregated and transformed data,  safety stock values for each SKU wer
 
 
 
-
-
-
-
-# References
+## References
 
 - Tutorials Point. “Sharing Jupyter Notebook Using GitHub and nbviewer.” Tutorials Point, www.tutorialspoint.com/jupyter/sharing_jupyter_notebook_using_github_and_nbviewer.htm. Accessed 14 Nov. 2025.
 
