@@ -28,7 +28,7 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 ## Assignment 1: Context Artifacts and Problem Framing
 
 ### Case Background  
-WD-40, a prominent San Diego-based company, faces recurring challenges in budgeting and forecasting transportation costs. Shipments—whether internal transfers or customer orders—are handled by third-party logistics providers across multiple modes (air, truck, container). However, invoice delays of weeks or months prevent timely cost visibility, creating ripple effects across finance, procurement, and executive planning.
+WD-40, a prominent San Diego-based company, faces recurring (hypothetical) challenges in budgeting and forecasting transportation costs. Shipments—whether internal transfers or customer orders—are handled by third-party logistics providers across multiple modes (air, truck, container). However, invoice delays of weeks or months prevent timely cost visibility, creating ripple effects across finance, procurement, and executive planning.
 
 ### Who, What, and How  
 - **Who**: Director of Supply Chain at WD-40  
@@ -53,11 +53,29 @@ To support this business problem, the following features are required:
 
 ### 3-Minute Story  
 
-> *What was the costliest shipment WD-40 made last quarter? If you had to pause and think—or wait for an invoice to tell you—you’re not alone. Your company is flying blind when it comes to transportation costs. This isn’t due to negligence, but because the data arrives too late to act on.*  
+> *What was the costliest shipment WD-40 made last quarter? If you had to pause
+and think, or wait for an invoice to tell you, then you are not the only one. Your
+company is currently flying blind when it comes to transportation costs. But you
+are not the only ones; this is happening across industries, not because of a lack
+of care but due to the fact that the data simply arrives way too late in order to be
+able to respond to it.*
 >  
-> *Multiple departments are impacted: finance can’t forecast, procurement can’t negotiate, and leadership lacks visibility. Our consulting team is building a predictive cost estimation model that delivers actionable insights within days of shipment initiation. It’s not just a rough guess—it’s a tailored breakdown by division, vendor, and mode, built on your historical data and designed to integrate into your planning workflows.*  
+> *Here at WD-40, multiple departments are being affected by shipments and
+invoices. Just think of all the budgeting headaches this creates: the finance
+department can’t forecast, the procurement team can’t negotiate, and
+leadership is blind to the bigger picture.
+That’s where we can assist.*
 >  
-> *This solution empowers WD-40 to allocate costs before invoices arrive, maintain transparency across divisions, and make smarter decisions in real time.*
+> *Our consulting team is developing a predictive cost estimation model that gives
+you visibility within a designated time frame of shipment initiation. Not just a
+rough guess, but a comprehensive breakdown by division, vendor, and mode. It’s
+built on your historical data, tailored to your operations, and designed to
+integrate seamlessly into your planning workflows.
+This solution isn’t just about analytics; it’s about empowerment and strategic
+advantage. Imagine being able to allocate your costs before invoices arrive,
+maintain transparency across divisions, in real time, and make smarter
+decisions across the supply chain.*
+
 
 ### Storyboard  
 
