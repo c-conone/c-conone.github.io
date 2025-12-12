@@ -1,5 +1,5 @@
 
-# Business Analytics & Visual Insights Projects E-Portfolio  
+# Business Analytics & Visual Insights Projects E-Portfolio
 
 This repository hosts a curated collection of student projects and assignments that demonstrate data-driven decision making. It highlights Python, SQL, and Power BI workflows with clear visuals, practical insights, and documentation designed for learners, professionals, and anyone interested in analytics.  
 
