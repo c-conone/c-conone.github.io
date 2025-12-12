@@ -3,7 +3,7 @@ layout: default
 title: Assignments
 ---
 
-## 📊 Project Overview
+## 📊 Assignments and Project Overview
 
 Explore the datasets, interactive notebook, and dashboard below. [OM 621 Assignments Repository](https://github.com/c-conone/om621_assignments)
 
@@ -13,6 +13,9 @@ Explore the datasets, interactive notebook, and dashboard below. [OM 621 Assignm
 [![Dashboard Demo](images/dashboard_demo.gif)](https://app.powerbi.com/groups/me/reports/2ace77da-45dd-4289-b247-0c1cc9c1e423/cff99f05631335431715?experience=power-bi)
 
 *Click the preview above to explore the interactive dashboard*
+
+
+
 
 ### 📁 Data Files
 

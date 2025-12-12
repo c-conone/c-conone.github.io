@@ -2,6 +2,10 @@
  
 This repository contains a series of assignments from the OM 621 Advanced Visual Analytics course at California State University San Marcos. The project centers on developing a predictive cost estimation model for WD-40’s transportation operations, using historical shipment and invoice data to support strategic decision-making across finance, procurement, and supply chain leadership.
 
+## Assignments and Project Overview
+
+[Watch on YouTube](https://youtu.be/YC9fCDyQkkA)
+
 ## Learning Objectives
 
 - Develop context artifacts (Who, What, How, pitch, Big Idea sheets, storyboard) to frame analytics problems.

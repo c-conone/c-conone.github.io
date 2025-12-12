@@ -41,6 +41,6 @@ This assignment demonstrates advanced visualization and forecasting by expanding
 
 ### Power BI Dashboard Project: Aviation Accident Trends in California (2019)
 
-This project analyzed aviation accident trends in California during 2019 using Python for data cleaning and visualization and Power BI for interactive reporting, to discover key insights into possible factors contributing to aviation accidents. The Python workflow prepared and merged flight and accident datasets, producing bar charts of monthly accidents and findings across aircraft, environmental, and human factors. The Power BI dashboard integrated cleaned data into fact and dimension tables, applied DAX measures, and delivered multi‑page visuals with slicers and definitions, **illustrating how raw data can be transformed into meaningful, actionable insights.**  
+This project analyzed aviation accident trends in California during 2019 using Python for data cleaning and visualization and Power BI for interactive reporting, to discover key insights into possible factors contributing to aviation accidents. The Python workflow prepared and merged flight and accident datasets, producing bar charts of monthly accidents and findings across aircraft, environmental, and human factors. The Power BI dashboard integrated cleaned data into fact and dimension tables, applied DAX measures, and delivered multi‑page visuals with slicers and definitions, illustrating how raw data can be transformed into meaningful, actionable insights. 
 
 
