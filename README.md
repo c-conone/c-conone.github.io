@@ -5,6 +5,9 @@ This repository hosts a curated collection of student projects and assignments t
 
 Alongside collaborative coursework, the repository features a personal showcase of analytics capabilities, including custom-built dashboards, exploratory data analyses, and workflow prototypes. These projects illustrate strengths in statistical modeling, data storytelling, and technical documentation, offering a professional view of applied business analytics in action.  
 
+# Assignments and Project Overview
+
+[![Watch the OM 621 Video](https://img.youtube.com/vi/YC9fCDyQkkA/0.jpg)](https://youtu.be/YC9fCDyQkkA)
 ---
 
 # Tools and Technologies for Business Analytics Assignments  
