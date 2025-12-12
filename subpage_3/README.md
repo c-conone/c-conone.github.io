@@ -10,6 +10,9 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 - Explore time-series patterns in invoice data to inform cost estimation and forecasting.
 - Document analytical decisions and build reproducible workflows for stakeholder use.
 - Translate technical findings into strategic insights for finance, procurement, and leadership teams.
+- Apply end‑to‑end analytics workflows by integrating Python preprocessing with Power BI visualization and reporting
+- Develop interactive dashboards that transform raw aviation data into structured insights for decision‑making
+
 
 
 ## Technologies and Tools Utilized
@@ -18,6 +21,8 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 - **Jupyter Notebooks**: interactive analysis  
 - **Markdown**: documentation  
 - **PNG exports**: stakeholder-ready visuals  
+- **Power BI (Power Query, DAX)**: for data modeling, interactive dashboards, multi‑page reports, and custom slicers/tooltips
+
 
 
 ## Assignment 1: Context Artifacts and Problem Framing
