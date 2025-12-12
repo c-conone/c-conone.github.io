@@ -11,6 +11,7 @@ layout: default
 
 [Projects – Page 1](https://c-conone.github.io/subpage_1/)  
 [Projects – Page 2](https://c-conone.github.io/subpage_2/)
+[Projects – Page 3](https://c-conone.github.io/subpage_3/)
 
 
 ## **Summary**
