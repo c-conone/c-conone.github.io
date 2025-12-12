@@ -22,7 +22,7 @@ This project showcases statistical modeling by calculating safety stock levels f
 
 ---
 
-# Advanced Visual Analytics Assignments  
+# Advanced Visual Analytics Assignments & Project
 
 The Advanced Visual Analytics assignments focus on developing a predictive cost estimation model for WD-40’s transportation operations. Using historical shipment and invoice data, the work supports strategic decision-making across finance, procurement, and supply chain leadership by combining feature engineering, exploratory analysis, and advanced visualization.
 
