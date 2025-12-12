@@ -133,7 +133,27 @@ Building on the delay analysis, this assignment focused on visualizing delay dis
 - Final visuals support cost forecasting and strategic planning
 
 
+## Power BI Dashboard Project: Aviation Accident Trends in California (2019)
 
+This project analyzes aviation accident trends in California during 2019 to identify contributing factors across aircraft, environmental, and human dimensions. Using Python for data preparation and Power BI for interactive visualization, the work demonstrates a full analytics workflow from raw data to actionable insights.
+
+- Data Cleaning & Transformation: Combined non-incident and accident flight records, standardized columns, removed duplicates/NaN values, and merged datasets.
+
+- Visualizations (plotnine): Bar charts showing monthly accident counts and findings categorized by aircraft features, personnel, and environmental issues.
+
+- One-Pager Report: Summarizes project scope, workflow, and key visualizations in a concise two-column format.
+Power BI Dashboard
+
+- Data Prep & Modeling: Imported cleaned Python outputs into Power Query; built relationships across fact and dimension tables (Accident, Aircraft, Engines, Events, Findings).
+
+- Interactive Pages: Multi-page dashboard with slicers, definitions page, and edited visuals for clarity.
+
+### Key Insights:
+
+- ~0.006% of 1.96M flights in 2019 had accidents in California, with August as the peak month.
+- Cessna 172 aircraft with Lycoming O-320 engines showed the highest accident frequency.
+- Environmental conditions (dew point near 0°F and 55°F) correlated with accident peaks.
+- Human factors, especially operator task performance, were the most significant contributors.
 
 
 
