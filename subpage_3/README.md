@@ -4,7 +4,8 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 
 ## Assignments and Project Overview
 
-[Watch on YouTube](https://youtu.be/YC9fCDyQkkA)
+[![Watch the OM 621 Video](https://img.youtube.com/vi/YC9fCDyQkkA/0.jpg)](https://youtu.be/YC9fCDyQkkA)
+---
 
 ## Learning Objectives
 
